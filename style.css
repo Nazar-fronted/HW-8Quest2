@@ -1,0 +1,57 @@
+.post:nth-child(even) {
+    color: brown;
+    background-color: black;
+}
+.post:nth-child(odd) {
+    color:deepskyblue;
+    background-color: darkslateblue;
+
+}
+
+.post:hover {
+    color: blanchedalmond;
+}
+.boom:nth-child(odd) {
+    color:deepskyblue;
+    background-color:gold
+}
+.enn:nth-child(odd) {
+    color:brown;
+    background-color: black;
+}
+.enn:nth-child(even) {
+    color: deepskyblue;
+    background-color: darkslateblue;
+}
+.qwer:nth-child(even) {
+    color: brown;
+    background-color: black;
+}
+.qwer:nth-child(odd) {
+    color: deepskyblue;
+    background-color: darkslateblue;
+}
+.tr:nth-child(even) {
+    color: deepskyblue;
+    background-color:darkslateblue ;
+}
+.tr:nth-child(odd) {
+    color: brown;
+    background-color: black;
+}
+.ty:nth-child(odd) {
+    color: deepskyblue;
+    background-color: darkslateblue;
+}
+.ty:nth-child(even) {
+    color:brown ;
+    background-color: black;
+}
+.te:nth-child(even) {
+    color: deepskyblue;
+    background-color: darkslateblue;
+}
+.te:nth-child(odd) {
+    color: brown;
+    background-color: black;
+}
